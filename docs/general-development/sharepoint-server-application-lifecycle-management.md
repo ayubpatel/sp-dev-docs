@@ -20,7 +20,7 @@ Applies common application lifecycle management (ALM) concepts and practices to 
 ## Overview of application lifecycle management (ALM)
 <a name="Overview"> </a>
 
-Microsoft SharePoint gives developers several options for creating and deploying applications that are based on SharePoint technologies, for both on-premises and in hosted or public cloud platforms. SharePoint offers increased flexibility in the shape applications can take as well as new options for using standards-based technologies with applications. Although these application capabilities and deployment options afforded by the new application model inSharePoint provide an effective means for developers to create new and immersive applications, developers must be able to infuse quality, testing and ALM considerations into the development process. This article applies common ALM concepts and practices to application development using SharePoint technologies.
+Microsoft SharePoint gives developers several options for creating and deploying applications that are based on SharePoint technologies, for both on-premises and in hosted or public cloud platforms. SharePoint offers increased flexibility in the shape applications can take as well as new options for using standards-based technologies with applications. Although these application capabilities and deployment options afforded by the new application model in SharePoint provide an effective means for developers to create new and immersive applications, developers must be able to infuse quality, testing and ALM considerations into the development process. This article applies common ALM concepts and practices to application development using SharePoint technologies.
 
 ### What's new
 <a name="WhatsNew"> </a>
